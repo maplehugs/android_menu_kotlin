@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema principal de la aplicación -->
+    <style name="Theme.App_cm1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Fondo por defecto -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Personalización de la barra de estado -->
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+</resources>
