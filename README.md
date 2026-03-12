@@ -2,7 +2,8 @@
 
 Una aplicación Android ligera que demuestra un flujo de menú con búsqueda, vista web integrada, formulario y pantalla de resultados. Este README está pensado para ser claro, profesional y fácil de seguir.
 
-![Demostración](docs/demo.gif)
+![Demostración](https://github.com/user-attachments/assets/e3208d74-ad95-4f3e-906f-12800a50bdc6)
+
 
 Resumen rápido
 - Proyecto: app_cm1
